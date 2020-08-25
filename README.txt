@@ -11,3 +11,5 @@ The console will also ask for where you want to install the server to. Provide t
 Step 4) SteamCMD will begin installing the DM Dedicated server files to the location provided.
 
 Note: If you use steam guard steamcmd.exe will ask for your auth code. This will not interupt the process.
+
+Note: You will need to modify serverfolder\deadmatter\Saved\Config\WindowsServer\Game.ini With the options you want for your server
